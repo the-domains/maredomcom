@@ -1,0 +1,14 @@
+layout_spectrum: 0.33848730684258044
+typography_spectrum: 0.9715452103409916
+color:
+  brandStrength: 0.0018424417357891798
+  lightness: 0.2812141478061676
+  saturation: 0.11266650352627039
+  rhythmicContrast: 0.25855063274502754
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: maredom.com
